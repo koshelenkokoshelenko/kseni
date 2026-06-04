@@ -70,7 +70,7 @@ jobs:
             echo "=== DOWNLOAD CONFIG ==="
 
             curl -L \
-              "https://www.dropbox.com/scl/fi/7qbs06dxulsovkv276ztj/config.zip?rlkey=qgl6wzyga2cxlli0j5o6manhq&st=2bg9ul6o&dl=1" \
+              "https://www.dropbox.com/scl/fi/7qbs06dxulsovkv276ztj/config.zip?rlkey=qgl6wzyga2cxlli0j5o6manhq&st=49vepypw&dl=1" \
               -o /tmp/config.zip
 
             unzip -o /tmp/config.zip -d /tmp/config
